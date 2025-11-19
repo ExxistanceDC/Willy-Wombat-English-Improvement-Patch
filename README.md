@@ -2,7 +2,7 @@
 An English improvement patch for the Sega Saturn Japanese exclusive, <a href=https://segaretro.org/Willy_Wombat>Willy Wombat</a>.
 
 ## **Overview**
-Willy Wombat features fully-voiced English audio, so it's very playable for English speakers. However, key menus are in Japanese, so this patch redraws several elements in English. Changes include:
+Willy Wombat is a charming 3D platformer/collectathon for the Sega Saturn. It features fully-voiced English audio, so it's very playable for English speakers. However, key menus are in Japanese, so this patch redraws several elements in English. Changes include:
 
 - Title RAM choice translated
 - Translated Options menu
