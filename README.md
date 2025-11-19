@@ -5,7 +5,7 @@ An English improvement patch for the Sega Saturn Japanese exclusive, <a href=htt
 Willy Wombat features fully-voiced English audio, so it's very playable for English speakers. However, key menus are in Japanese, so this patch redraws several elements in English. Changes include:
 
 - Title RAM choice translated
-- Translated options menu
+- Translated Options menu
 - Translated Save/Load menu
 - All English interstitial loading screens
 
