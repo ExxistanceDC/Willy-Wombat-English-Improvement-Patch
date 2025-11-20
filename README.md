@@ -29,23 +29,20 @@ What is *not* changed:
 
 ## **Patching Instructions**
 
-1. Download DeltaPatcher <a href=https://www.romhacking.net/utilities/704/>here.
-2. Open **'DeltaPatcher.exe'**
-3. After it opens, click the file icon next to **'Original File'**
-4. Find your original Willy Wombat BIN/CUE image, select Track 01 and click **'Open'**. For example, <kbd>Willy Wombat (Japan) (Track 01).bin</kbd>
-5. Next click the file icon next to **'XDelta patch'**
-6. Find the Xdelta patch you downloaded from this repo on your local machine (default name is <kbd>Willy_Wombat_English_Improvement_vX.X.xdelta</kbd>) and click **'Open'**.
-7. Click the **'Apply Patch'** button
-8. If successful, you'll now have a patched Track 01.bin.
-9. Burn to disc and play in your Sega Saturn or play in your favorite Sega Saturn emulator
+1. Unzip patch bundle
+2. Open **'SegaSaturnPatcher.exe'**
+3. After it opens, click **'Select Saturn Game'**
+4. Next click **'CD Image'**
+5. Find your original disc image on your computer, then click **'Open'**
+6. Click the **'+ Game Patch (SSP)'** button
+7. Select the either the dubbed or non-dubbed .ssp patch and click **'Open'**
+8. Finally, select **'Build Image'** and choose a directory to save it to
+9. Burn to disc and play in your Sega Saturn, or play in your favorite Sega Saturn emulator
 
 **--> Important! <--**
 - Tested with <kbd>Willy Wombat (Japan)</kbd>
 
 ## **Credits**
-
-**Project Lead**
-- Rasputin3000
 
 **Translation**
 - Exxistance
