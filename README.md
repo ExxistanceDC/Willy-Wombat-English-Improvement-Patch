@@ -17,7 +17,7 @@ What is *not* changed:
 
 - The Japanese subtitles during character dialogue. We searched high and low in the game files, but could not source these. Perhaps for a future patch release.
 
-## **Screens**
+## **Screenshots**
 
 <!-- Row 1 -->
 <p>
