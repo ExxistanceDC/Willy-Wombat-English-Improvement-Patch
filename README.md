@@ -15,10 +15,11 @@ Willy Wombat is a charming 3D platformer/collectathon for the Sega Saturn. It fe
 
 What is *not* changed:
 
-- The Japanese subtitles during character dialogue. We searched high and low in the game files, but could not source these. Perhaps for a future patch release.
+- The Japanese subtitles during character dialogue. During these scenes, characters will speak English over Japanese subtitles. We searched high and low in the game files, but could not source these. Hopefully, I can figure this out for a future patch release.
 
 ## **Screenshots**
 
+<div align="center">
 <!-- Row 1 -->
 <p>
   <img src="Images/Willy Wombat (Japan)-251119-123658.png" width="500"/>
@@ -30,6 +31,7 @@ What is *not* changed:
   <img src="Images/Willy Wombat (Japan)-251119-123338.png" width="500"/>
   <img src="Images/Willy Wombat (Japan)-251119-123716.png" width="500"/>
 </p>
+</div>
 
 ## **Patching Instructions**
 
@@ -61,4 +63,4 @@ What is *not* changed:
 **Special Thanks**
 - Rasputin3000 (for championing this game and bringing it to my attention)
 - Bo Bayles of <a href=https://32bits.substack.com/>Rings of Saturn</a>
-- the <a href=https://mushroom32x.neocities.org/Willy%20Wombat/>Willy Wombat 20th Anniversary Webpage</a> (a beautiful resource to learn more about the game) 
+- The <a href=https://mushroom32x.neocities.org/Willy%20Wombat/>Willy Wombat 20th Anniversary Webpage</a> (a beautiful resource to learn more about the game) 
