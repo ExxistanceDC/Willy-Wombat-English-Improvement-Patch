@@ -35,6 +35,10 @@ What is *not* changed:
 
 ## **Patching Instructions**
 
+The patch comes in two flavors: a Sega Saturn Patcher .ssp or an XDelta .xdelta file. 
+
+### Sega Saturn Patcher Instruction ###
+
 1. Unzip patch bundle
 2. Open **'SegaSaturnPatcher.exe'** (It can be downloaded <a href=https://segaxtreme.net/threads/sega-saturn-patcher-discussion-thread.24721/>here</a>. The most current version is V1.91)
 3. After it opens, click **'Select Saturn Game'**
@@ -44,6 +48,16 @@ What is *not* changed:
 7. Go to where you unzipped the patch bundle and locate <kbd>Willy_Wombat_Improvement_Patch_vX.X</kbd> and click **'Open'**
 8. Finally, select **'Build Image'** and choose a directory to save it to
 9. Burn to disc and play in your Sega Saturn or play in your favorite Sega Saturn emulator
+
+### XDelta Instructions ###
+
+1. Grab an XDelta patching utility like <a href='https://www.romhacking.net/utilities/704/'>Delta Patcher</a>
+2. Unzip patch bundle
+3. Open **'DeltaPatcher.exe'**
+4. For the Original File, locate Track 01 of the original Willy Wombat disc (for example: <kbd>Willy Wombat (Japan) (Track 01).bin</kbd>)
+5. Locate the <kbd>Willy_Wombat_English_Improvement_v1.0.xdelta</kbd>
+6. Click **'Apply Patch'**
+7. If successful, Track 01 will be replaced with the patched track.
 
 **--> Important! <--**
 - Tested with <kbd>Willy Wombat (Japan)</kbd>
